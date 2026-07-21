@@ -8,7 +8,7 @@ Challenge the computer in the timeless **Rock Paper Scissors** game! Pick your m
 
 Simple. Fast. Fun.
 
----
+
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ Simple. Fast. Fun.
 🎨 Dynamic result messages with color feedback
 📱 Clean, responsive, and beginner-friendly interface
 
----
+
 
 ## 🛠️ Built With
 
@@ -26,7 +26,7 @@ Simple. Fast. Fun.
 * **CSS3**
 * **JavaScript**
 
----
+
 
 ## 🎮 How to Play
 
@@ -36,7 +36,7 @@ Simple. Fast. Fun.
 4. Scores update automatically after every round.
 5. Keep playing and try to beat the computer!
 
----
+
 
 ## 📂 Project Structure
 
@@ -51,7 +51,7 @@ Simple. Fast. Fun.
     └── scissors.png
 ```
 
----
+
 
 ## 💡 What I Learned
 
@@ -61,7 +61,7 @@ Simple. Fast. Fun.
 * Random Number Generation
 * Updating UI Dynamically with JavaScript
 
----
+
 
 ## 🌟 Future Improvements
 
@@ -72,12 +72,12 @@ Simple. Fast. Fun.
 * 🔄 Restart game button
 * 👥 Multiplayer mode
 
----
+
 
 ## ⭐ Like this project?
 
 If you enjoyed it, consider giving it a **⭐ Star** on GitHub. It motivates me to keep building and sharing more projects!
 
----
+
 
 ### **Every champion started by making the first move. What's yours? 🚀**
