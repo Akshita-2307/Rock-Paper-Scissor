@@ -1,6 +1,6 @@
 # 🪨📄✂️ Rock Paper Scissors
 
-### Think you're lucky? Prove it.A classic game. A modern look. One click to decide your fate.
+ Think you're lucky? Prove it.A classic game. A modern look. One click to decide your fate.
 
 ## ✨ About the Project
 
